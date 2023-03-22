@@ -1,1 +1,1 @@
-# SampleSubGraph
+# SampleSubgraph
